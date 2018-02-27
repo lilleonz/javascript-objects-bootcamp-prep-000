@@ -1,6 +1,6 @@
 var playlist = {artists:"songs"};
 
-var updatePlaylist = function (object, artists, song) {
-  object[artist] = song;
-  retunrn = object;
+var updatePlaylist = function (playList, artistName, songTitle) {
+  playlist[artist] = song;
+  return = playlist;
 }
